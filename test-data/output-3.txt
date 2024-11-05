@@ -1,0 +1,2 @@
+SUCCESS #gt4500
+FAIL #<- mivel meghiabasodott a store, igy nem lo

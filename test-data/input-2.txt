@@ -1,0 +1,4 @@
+#ellenorzi, hogy a torpedo-k tenyleg fogynak e, masodik-ra FAIL-t varunk
+GT4500,1,0,1,0 #letrehoz egy hajot, store-onkent egy torpedo-val, ami sose FAIL-el
+TORPEDO,ALL #elso loves
+TORPEDO,ALL #masodik loves

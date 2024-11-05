@@ -1,0 +1,3 @@
+#A teszt a failure-rate-t teszteli, minde store 100% esellyes hibasodik meg
+GT4500,1,1,1,1 #hajo init
+TORPEDO,ALL #loves, FAIL-t varunk

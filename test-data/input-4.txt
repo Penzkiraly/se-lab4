@@ -1,0 +1,4 @@
+GT4500,1,0,2,0
+TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE  # a secondary store-t lovi ki
+TORPEDO,SINGLE  # a secondary store-t lovi ki

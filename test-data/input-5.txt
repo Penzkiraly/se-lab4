@@ -1,0 +1,4 @@
+#Ha nincs TORPEDO a masodik store-ban az elso-t lovi ki 2xszer
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE  # should have fired from the primary store
